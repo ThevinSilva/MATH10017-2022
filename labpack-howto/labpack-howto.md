@@ -36,6 +36,9 @@ Open the file in the file explorer:
 
 # Extract the zip file using 7zip
 
+### 7zip is a popular decompression tool and has been preinstalled on all lab computers. However, if you have not installed 7zip on your computer, you can download and install it here: https://www.7-zip.org/. You can use windows to decompress the labpack, but it will be slow. 
+
+----- 
 Right click on the labpack and unzip it using 7zip (choose &ldquo;Extract here&rdquo;):
 
 ![img](./cap10.PNG)
