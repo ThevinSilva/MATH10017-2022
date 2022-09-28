@@ -14,7 +14,7 @@
 
 # Download the labpack
 
-Click [here](https://uob-my.sharepoint.com/:u:/g/personal/sl9885_bristol_ac_uk/EdgoLEWAHglBtB0SoSguh1sBzF9svt4OoMzVCldBfXyhgA?e=v9afWV) to find the labpack on sharepoint; you may have to enter your ID and password.
+Click [here](https://uob-my.sharepoint.com/:u:/g/personal/sl9885_bristol_ac_uk/EdgoLEWAHglBtB0SoSguh1sBzF9svt4OoMzVCldBfXyhgA) to find the labpack on sharepoint; you may have to enter your ID and password.
 
 Click &ldquo;download the entire zip file&rdquo;.
 
