@@ -15,6 +15,7 @@ TL,DR; This unit teaches basic language features of C, R and C++.
    - [Commandline Tips](commandline_tips/tips.md)
 
 2. Lecture slides: [Function](lecs/lec2.pdf)
+   - [Lab Tasks](labs/lab1.pptx)
    - [Lab File](labs/lab1.zip)
 
 ## Extra Learning Materials
