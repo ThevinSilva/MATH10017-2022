@@ -18,6 +18,8 @@ TL,DR; This unit teaches basic language features of C, R and C++.
    - [Lab Tasks](labs/lab1.pptx)
    - [Lab File](labs/lab1.zip)
 
+3. Lecture slides: [Conditional and Loops](lecs/lec3.pdf)
+
 ## Extra Learning Materials
 
 1. [CS50](https://www.youtube.com/c/cs50) is Harvard University's introductory course to computer science and the art of programming. 
