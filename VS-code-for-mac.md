@@ -44,7 +44,7 @@ Follow the instructions at [this link](https://www.cs.auckland.ac.nz/~paul/C/Mac
 -   Inside VS Code, use the "Open Folder" option under "File" to open a folder (e.g. a folder for lab or tutorial)
 -   Open a new terminal (first option under "Terminal" in the menu bar).
 -   The prompt should show that you are in the folder you opened.
--   Type `ls` in the terminal and hit enter. You should see your files. If not, use the [<https://github.com/anewgithubname/MATH10017-2022/blob/main/commandline_tips/tips.md>](command line tips) to navigate to the right folder (or "directory").
+-   Type `ls` in the terminal and hit enter. You should see your files. If not, use the [command line tips](<https://github.com/anewgithubname/MATH10017-2022/blob/main/commandline_tips/tips.md>) to navigate to the right folder (or "directory").
 -   You can now compile with `gcc`: `gcc your_file_name.c -o output_file_name.out`
 -   Run your code with `./output_file_name.out`
 -   **IMPORTANT** on Mac and linux, use `.out` instead of `.exe`.
