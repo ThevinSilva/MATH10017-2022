@@ -121,3 +121,4 @@ In the debug menu, choose the option to create `launch.json` and copy the follow
         ]
     }
 
+Note: on Mac, output will only be shown in the debug console, not in the terminal, like on Windows.
