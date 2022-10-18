@@ -12,6 +12,7 @@ TL,DR; This unit teaches basic language features of C, R and C++.
 1. Lecture slides: [Foundation](lecs/lec1.pdf)
    - [Tutorial](lecs/tutorial1.pptx)
    - [How to Install Labpack](labpack-howto/labpack-howto.md)
+   - [NEW! How to use VSCode on Mac with Debugging](VS-code-for-mac.md)
    - [Commandline Tips](commandline_tips/tips.md)
 
 2. Lecture slides: [Function](lecs/lec2.pdf)
