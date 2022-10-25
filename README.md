@@ -28,6 +28,9 @@ TL,DR; This unit teaches basic language features of C, R and C++.
    - Lab tasks: At the end of the lecture slides. 
    - [Lab Files](labs/lab3.zip)
 
+5. Lecture slides: [Computational Complexity, Recursion and Stack Memory](lecs/lec5.pdf)
+   - Lab tasks: At the end of the lecture slides. 
+
 ## Extra Learning Materials
 
 1. [CS50](https://www.youtube.com/c/cs50) is Harvard University's introductory course to computer science and the art of programming. 
