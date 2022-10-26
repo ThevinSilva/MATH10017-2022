@@ -32,6 +32,10 @@ TL,DR; This unit teaches basic language features of C, R and C++.
    - Lab tasks: At the end of the lecture slides. 
    - [Lab File](labs/lab_4.zip)
 
+Coursework 1
+   - [CW description](lecs/cw1.pdf)
+   - [CW file](labs/cw1.zip)
+
 ## Extra Learning Materials
 
 1. [CS50](https://www.youtube.com/c/cs50) is Harvard University's introductory course to computer science and the art of programming. 
