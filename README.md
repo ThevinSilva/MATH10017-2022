@@ -31,6 +31,7 @@ TL,DR; This unit teaches basic language features of C, R and C++.
 5. Lecture slides: [Computational Complexity, Recursion and Stack Memory](lecs/lec5.pdf)
    - Lab tasks: At the end of the lecture slides. 
    - [Lab File](labs/lab_4.zip)
+   - [Tutorial](labs/tutorial3.pdf)
 
 Coursework 1
    - [CW description](lecs/cw1.pdf)
