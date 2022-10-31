@@ -21,16 +21,16 @@ TL,DR; This unit teaches basic language features of C, R and C++.
 
 3. Lecture slides: [Conditional and Loops](lecs/lec3.pdf)
    - Lab Tasks: At the end of lecture slides. 
-   - [Lab File](labs/lab2.zip), [solution](labs/lab_2_sol.zip)
-   - [Tutorial](labs/tutorial2.pdf)
+   - [Lab File](labs/lab2.zip)
+   - [Tutorial](labs/tutorial2.pdf),  [solution](labs/lab_2_sol.zip)
 
 4. Lecture slides: [Advanced Flow Control](lecs/lec4.pdf)
    - Lab tasks: At the end of the lecture slides. 
-   - [Lab Files](labs/lab3.zip)
+   - [Lab Files](labs/lab3.zip), [solution](labs/lab_3_sol.zip)
 
 5. Lecture slides: [Computational Complexity, Recursion and Stack Memory](lecs/lec5.pdf)
    - Lab tasks: At the end of the lecture slides. 
-   - [Lab File](labs/lab_4.zip)
+   - [Lab File](labs/lab_4.zip), [solution](labs/lab_4_sol.zip)
 
 Coursework 1
    - [CW description](lecs/cw1.pdf)
