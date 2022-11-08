@@ -37,6 +37,9 @@ Coursework 1
    - [CW description](lecs/cw1.pdf)
    - [CW file](labs/cw1.zip)
 
+6. Lecture slides: [Arrays](lecs/lec6.pdf)
+   - Lab tasks: At the end of the lecture slides. 
+
 ## Extra Learning Materials
 
 1. [CS50](https://www.youtube.com/c/cs50) is Harvard University's introductory course to computer science and the art of programming. 
