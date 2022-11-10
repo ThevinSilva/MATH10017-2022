@@ -40,7 +40,7 @@ Coursework 1
 6. Lecture slides: [Arrays](lecs/lec6.pdf)
    - Lab tasks: At the end of the lecture slides. 
    - [Lab File](labs/lab_5.zip)
-   - [Tutorial](labs/tutorial4.pdf)
+   - [Tutorial](tutorial4.pdf), [Tutorial file](tutorial4.c)
    
 ## Extra Learning Materials
 
