@@ -41,6 +41,10 @@ Coursework 1
    - Lab tasks: At the end of the lecture slides. 
    - [Lab File](labs/lab_5.zip)
    - [Tutorial](tutorial4.pdf), [Tutorial file](tutorial4.c)
+
+6. Lecture slides: [Pointers](lecs/lec7.pdf)
+   - Lab tasks: At the end of the lecture slides. 
+   - [Lab File](labs/lab_6.zip)
    
 ## Extra Learning Materials
 
