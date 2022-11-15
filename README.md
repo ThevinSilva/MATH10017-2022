@@ -40,11 +40,8 @@ Coursework 1
 6. Lecture slides: [Arrays](lecs/lec6.pdf)
    - Lab tasks: At the end of the lecture slides. 
    - [Lab File](labs/lab_5.zip)
-
-7. Lecture slides: [Pointer](lecs/lec7.pdf)
-   - Lab tasks: At the end of the lecture slides. 
-   - [Lab File](labs/lab_6.zip)
-
+   - [Tutorial](tutorial4.pdf), [Tutorial file](tutorial4.c)
+   
 ## Extra Learning Materials
 
 1. [CS50](https://www.youtube.com/c/cs50) is Harvard University's introductory course to computer science and the art of programming. 
