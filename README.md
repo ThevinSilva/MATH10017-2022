@@ -48,7 +48,7 @@ Coursework 1
 
 6. Lecture slides: [Pointers 2](lecs/lec8.pdf)
    - Lab tasks: At the end of the lecture slides. 
-   - [Lab File](labs/lab_7.zip) 
+   - [Lab File](labs/Lab_7.zip) 
    
 ## Extra Learning Materials
 
