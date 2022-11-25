@@ -35,7 +35,7 @@ TL,DR; This unit teaches basic language features of C, R and C++.
 
 Coursework 1
    - [CW description](lecs/cw1.pdf)
-   - [CW file](labs/cw1.zip)
+   - [CW file](labs/cw1.zip), [Solution](labs/cw1_sol.zip)
 
 6. Lecture slides: [Arrays](lecs/lec6.pdf)
    - Lab tasks: At the end of the lecture slides. 
