@@ -51,6 +51,8 @@ Coursework 1
    - [Lab File](labs/Lab_7.zip), [Solution](labs/lab_7_sol.zip)
 
 9. Lecture slides: [Structure and File IO](lecs/lec9_.pdf)
+   - Lab tasks: AT the end of the lecture slides. 
+   - [Lab File](labs/lab8.zip)
    
 ## Extra Learning Materials
 
