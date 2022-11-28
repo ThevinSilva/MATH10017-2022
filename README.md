@@ -42,13 +42,15 @@ Coursework 1
    - [Lab File](labs/lab_5.zip), [Solution](labs/lab_5_sol.zip)
    - [Tutorial](tutorial4.pdf), [Tutorial file](tutorial4.c)
 
-6. Lecture slides: [Pointers](lecs/lec7.pdf)
+7. Lecture slides: [Pointers](lecs/lec7.pdf)
    - Lab tasks: At the end of the lecture slides. 
    - [Lab File](labs/lab_6.zip), [Solution](labs/lab_6_sol.zip)
 
-6. Lecture slides: [Pointers 2](lecs/lec8.pdf)
+8. Lecture slides: [Pointers 2](lecs/lec8.pdf)
    - Lab tasks: At the end of the lecture slides. 
    - [Lab File](labs/Lab_7.zip), [Solution](labs/lab_7_sol.zip)
+
+9. Lecture slides: [Structure and File IO](lecs/lec9.pdf)
    
 ## Extra Learning Materials
 
