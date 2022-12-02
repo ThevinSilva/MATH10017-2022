@@ -55,6 +55,7 @@ Coursework 1
    - [Lab File](labs/lab8.zip)
    
 [Coursework 2](lecs/cw2.pdf)
+   - [Example Output; Open using VSCode!!](/labs/cw2_output.txt)
    - [Lab File](labs/cw2.zip)
 
 ## Extra Learning Materials
