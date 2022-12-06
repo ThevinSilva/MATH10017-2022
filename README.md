@@ -58,6 +58,10 @@ Coursework 1
    - [Example Output; Open using VSCode!!](/labs/cw2_output.txt)
    - [Lab File](labs/cw2.zip)
 
+10. Lecture slides: [Revision](/lecs/lec10.pdf)
+   - [Lab Tasks](labs/lab9.pdf)
+   - [Lab Files](labs/lab9.zip)
+
 ## Extra Learning Materials
 
 1. [CS50](https://www.youtube.com/c/cs50) is Harvard University's introductory course to computer science and the art of programming. 
