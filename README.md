@@ -52,7 +52,7 @@ TL,DR; This unit teaches basic language features of C, R and C++.
 
 9. Lecture slides: [Structure and File IO](lecs/lec9_.pdf)
    - Lab tasks: AT the end of the lecture slides. 
-   - [Lab File](labs/lab8.zip)
+   - [Lab File](labs/lab8.zip), [Solution](labs/lab8_sol.zip)
    
 9. [Coursework 2](lecs/cw2.pdf)
    - [Example Output; Open using VSCode!!](/labs/cw2_output.txt)
