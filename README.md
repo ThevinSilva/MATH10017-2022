@@ -33,7 +33,7 @@ TL,DR; This unit teaches basic language features of C, R and C++.
    - [Lab File](labs/lab_4.zip), [solution](labs/lab_4_sol.zip)
    - [Tutorial](labs/tutorial3.pdf)
 
-Coursework 1
+5. Coursework 1
    - [CW description](lecs/cw1.pdf)
    - [CW file](labs/cw1.zip), [Solution](labs/cw1_sol.zip)
 
@@ -54,13 +54,13 @@ Coursework 1
    - Lab tasks: AT the end of the lecture slides. 
    - [Lab File](labs/lab8.zip)
    
-[Coursework 2](lecs/cw2.pdf)
+9. [Coursework 2](lecs/cw2.pdf)
    - [Example Output; Open using VSCode!!](/labs/cw2_output.txt)
    - [Lab File](labs/cw2.zip)
 
 10. Lecture slides: [Revision](/lecs/lec10.pdf)
-   - [Lab Tasks](labs/lab9.pdf)
-   - [Lab Files](labs/lab9.zip)
+       - [Lab Tasks](labs/lab9.pdf)
+       - [Lab Files](labs/lab9.zip)
 
 ## Extra Learning Materials
 
